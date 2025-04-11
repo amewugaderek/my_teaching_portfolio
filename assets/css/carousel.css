@@ -20,7 +20,7 @@
   justify-content: center; /* Center horizontally */
   align-items: center;    /* Center vertically */
   padding: 6rem 6%;
-  background-image: url(../Pictures/bg1-h1.jpg);
+  background-image: url(../Pictures/bg1-h1.svg);
   height: 100vh; /* Ensure the container takes full viewport height */
 }
 
